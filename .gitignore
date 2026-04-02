@@ -1,0 +1,7 @@
+build/
+main.o
+*.o
+shortener
+links.db
+.DS_Store
+backdate.sh
