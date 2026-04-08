@@ -1,0 +1,16 @@
+# Dev log
+- 2026-04-08: test /shorten with raw body and form-encoded input
+- 2026-04-10: verify 302 redirects and hit counting
+- 2026-04-11: test custom aliases
+- 2026-04-12: check persistence across restarts
+- 2026-04-14: confirm same URL returns same code
+- 2026-04-15: test /stats endpoint output
+- 2026-04-16: try BASE_URL environment variable
+- 2026-04-18: load test with concurrent curl requests
+- 2026-04-19: document building with clang++ directly
+- 2026-04-21: review error handling for bad requests
+- 2026-04-22: plan SQLite storage
+- 2026-04-24: plan rate limiting
+- 2026-04-25: plan thread pool / epoll
+- 2026-04-27: plan TTL expiry and HTTPS via reverse proxy
+- 2026-04-08: test /shorten with raw body and form-encoded input
