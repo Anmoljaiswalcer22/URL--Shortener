@@ -15,3 +15,4 @@
 - 2026-04-27: plan TTL expiry and HTTPS via reverse proxy
 - 2026-04-08: test /shorten with raw body and form-encoded input
 - 2026-04-10: verify 302 redirects and hit counting
+- 2026-04-11: test custom aliases
