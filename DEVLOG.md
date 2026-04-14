@@ -17,3 +17,4 @@
 - 2026-04-10: verify 302 redirects and hit counting
 - 2026-04-11: test custom aliases
 - 2026-04-12: check persistence across restarts
+- 2026-04-14: confirm same URL returns same code
