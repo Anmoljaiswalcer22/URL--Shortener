@@ -18,3 +18,4 @@
 - 2026-04-11: test custom aliases
 - 2026-04-12: check persistence across restarts
 - 2026-04-14: confirm same URL returns same code
+- 2026-04-15: test /stats endpoint output
