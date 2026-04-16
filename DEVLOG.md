@@ -19,3 +19,4 @@
 - 2026-04-12: check persistence across restarts
 - 2026-04-14: confirm same URL returns same code
 - 2026-04-15: test /stats endpoint output
+- 2026-04-16: try BASE_URL environment variable
