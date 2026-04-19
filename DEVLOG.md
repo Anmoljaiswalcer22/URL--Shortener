@@ -21,3 +21,4 @@
 - 2026-04-15: test /stats endpoint output
 - 2026-04-16: try BASE_URL environment variable
 - 2026-04-18: load test with concurrent curl requests
+- 2026-04-19: document building with clang++ directly
