@@ -22,3 +22,4 @@
 - 2026-04-16: try BASE_URL environment variable
 - 2026-04-18: load test with concurrent curl requests
 - 2026-04-19: document building with clang++ directly
+- 2026-04-21: review error handling for bad requests
