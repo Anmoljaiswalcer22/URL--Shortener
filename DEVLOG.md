@@ -26,3 +26,4 @@
 - 2026-04-22: plan SQLite storage
 - 2026-04-24: plan rate limiting
 - 2026-04-25: plan thread pool / epoll
+- 2026-04-27: plan TTL expiry and HTTPS via reverse proxy
